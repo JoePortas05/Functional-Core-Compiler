@@ -178,9 +178,3 @@ Functional-Core-Compiler/
   compiler.rkt        # Parser, AST definitions, compiler, runtime, and tests
   README.md           # Project documentation
 ```
-
-## Notes
-
-FC is a compact language implementation intended to demonstrate core programming language concepts, including parsing, lexical scoping, closure creation, environment representation, mutation, recursive definitions, and by-reference function calls.
-
-The project emphasizes correctness, semantic edge cases, and clear implementation of language runtime behavior.
